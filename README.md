@@ -1,12 +1,10 @@
 # Hi 👋, I'm Giang 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luluchi19" alt="luluchi19" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/luluchi19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="luluchi19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nguyen-kim-truong-giang-67b65a37a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguyen-kim-truong-giang-67b65a37a/" height="30" width="40" /></a>
-<a href="https://fb.com/Giang Nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Giang Nguyễn" height="30" width="40" /></a>
+<a href="https://fb.com/littlebisu1910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="littlebisu1910" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
